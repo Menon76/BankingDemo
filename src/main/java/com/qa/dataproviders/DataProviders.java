@@ -7,10 +7,7 @@ import org.testng.annotations.DataProvider;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * @author Hitendra
- *
- */
+
 public class DataProviders {
 
 	NewExcelLibrary obj = new NewExcelLibrary();
